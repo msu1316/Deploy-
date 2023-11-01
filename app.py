@@ -145,22 +145,7 @@
     "    app.run(port =5000, debug=False)"
    ]
   },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "9d6626f6-e69d-48ee-ba01-b172a7460bc7",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "f33c18c6-4b70-4efc-8aad-3b15800d5958",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
+  
  ],
  "metadata": {
   "kernelspec": {
